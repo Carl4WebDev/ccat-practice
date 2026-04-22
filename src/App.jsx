@@ -658,6 +658,14 @@ if (!started) {
           >
             carl4dev
           </a>
+          <a
+            href="https://carl4dev-cc-interview-practice.netlify.app/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-sm font-semibold text-white hover:text-blue-400 transition"
+          >
+            Prepare for Call Center Interviews.
+          </a>
 
           <p className="text-xs text-slate-500 max-w-md">
             This is an independent practice tool and is not affiliated with any official aptitude testing provider.
